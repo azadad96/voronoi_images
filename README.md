@@ -4,11 +4,11 @@ Creates images consisting of voronoi cells
 ## Usage
 
 Build the program using
-    make
+    `make`
 
 
 Run the program using
-    ./main path/to/input-image.png num_seeds scale
+    `./main path/to/input-image.png num_seeds scale`
 
 where:
 
